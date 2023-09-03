@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+.life {
+    width: 40%;
+    margin: 250px auto;
+    text-align: center;
+}
+
+.life-title, .life-subtitle  {
+    color: white;
+    margin-bottom: 0px;
+}
+
+.life-subtitle {
+    margin-top: 0px;
+}
+
